@@ -1,6 +1,6 @@
 <!--### Hi there 👋 -->
 
-### Hi there, 👋I'm [Mohit Kumar Vats](https://mkvats.wordpress.com)
+### Hi there, I'm [Mohit Kumar Vats](https://mkvats.wordpress.com) 👋
 
 <!--
 **MkVats/mkvats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
